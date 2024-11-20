@@ -2,7 +2,7 @@
 
 ![Thumbnail](css/assets/thumbnail.png)
 
-Link to project: ()
+Link to project: (https://pokemonmemorymatch.netlify.app/)
 
 
 ## How It's Made:
